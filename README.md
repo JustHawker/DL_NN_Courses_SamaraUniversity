@@ -62,8 +62,8 @@ _Курсы разработаны Центром интеллектуально
   
 [Презентация к лекции 2](https://github.com/JustHawker/DL_NN_Courses_SamaraUniversity/blob/NN-DL-autumn-2026/lections/DL_Basic_2_BP_26.pdf)  
 
-[Видео полной лекции от 2023 года, часть 1](https://youtu.be/yibCgT26MZQ)   
-[Видео полной лекции от 2023 года, часть 2](https://youtu.be/TMaeTLRtld0)   
+[Видео полной лекции от 2023 года, часть 1](https://youtu.be/TMaeTLRtld0)   
+[Видео полной лекции от 2023 года, часть 2](https://youtu.be/yibCgT26MZQ)   
 Видео сокращенной лекции от апреля 2026 года - TBD  
 
 
