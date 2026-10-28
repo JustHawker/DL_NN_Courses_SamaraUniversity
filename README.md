@@ -103,9 +103,11 @@ _Курсы разработаны Центром интеллектуально
 
 * Базовые архитектуры - AlexNet, VGG, GoogleNet, ResNet, UNET и другие. 
 * Основные архитектуры для решения задач технического зрения и предиктивной аналитики БАС.
-
+  
 [Презентация к лекции 5](https://github.com/JustHawker/DL_NN_Courses_SamaraUniversity/blob/NN-DL-autumn-2026/lections/DL_Basic_5_Arch_26.pdf)
 
+[Видео полной лекции от 2023 года](https://youtu.be/X77_BhagkJ0)   
+  
 **Лекция 6. Инструментарий глубокого обучения.**  
 * CPU vs GPU vs TPU.  
 * Пакеты глубокого обучения, Tensorflow, Keras и другие.  
