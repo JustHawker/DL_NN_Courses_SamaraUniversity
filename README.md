@@ -101,7 +101,9 @@ _Курсы разработаны Центром интеллектуально
 * Вопросы регуляризации и аугментации данных.
   
 [Презентация к лекции 4.2](https://github.com/JustHawker/DL_NN_Courses_SamaraUniversity/blob/NN-DL-autumn-2026/lections/DL_Basic_4_Training2_26.pdf)
-
+[Видео по двум частям, версия от 2023 года](https://youtu.be/A2HYag892Dw)   
+  
+  
 **Лекция 5. Базовые архитектуры СНС**  
 
 * Базовые архитектуры - AlexNet, VGG, GoogleNet, ResNet, UNET и другие. 
