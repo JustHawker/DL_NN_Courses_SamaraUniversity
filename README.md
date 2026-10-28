@@ -88,12 +88,16 @@ _Курсы разработаны Центром интеллектуально
 * Активационные функции, обработка данных сетью.  
 * Пакетная нормализация и другие трюки.  
 * Transfer learning.
+  
+[Презентация к лекции 4.1](https://github.com/JustHawker/DL_NN_Courses_SamaraUniversity/blob/NN-DL-autumn-2026/lections/DL_Basic_4_Training1_26.pdf)  
    
 **Лекция 4. Обучение СНС, часть 2.**  
 
 * Политики обновления гиперпараметров.  
 * Тюнинг процесса обучения.
 * Вопросы регуляризации и аугментации данных.
+  
+[Презентация к лекции 4.2](https://github.com/JustHawker/DL_NN_Courses_SamaraUniversity/blob/NN-DL-autumn-2026/lections/DL_Basic_4_Training2_26.pdf)
 
 **Лекция 5. Базовые архитектуры СНС**  
 
