@@ -111,6 +111,8 @@ _Курсы разработаны Центром интеллектуально
 * Пакеты глубокого обучения, Tensorflow, Keras и другие.  
 * Вычислительные графы СНС.
   
+[Презентация к лекции 6](https://github.com/JustHawker/DL_NN_Courses_SamaraUniversity/blob/NN-DL-autumn-2026/lections/DL_Basic_6_DL_Tools_26.pdf)  
+
 [Видео полной лекции от 2023 года](https://youtu.be/rY9t_Iizwxk)   
 
 
