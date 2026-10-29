@@ -131,6 +131,12 @@ _Курсы разработаны Центром интеллектуально
 * Современные техники - RMSNorm, SwiGLU, RoPE, спекулятивное декодирование, activation steeting.
 * Применение в задачах технического зрения, анализа видео, интеллектуальной эксплуатации технических систем в том числе БАС.
   
+https://youtu.be/Uy9vjSGDHko
+[Презентация к лекции 7. Вводная](https://github.com/JustHawker/DL_NN_Courses_SamaraUniversity/blob/NN-DL-autumn-2026/lections/DL_Adv_7_Transformers_1_26.pdf)  
+[Презентация к лекции 7. Детальная](https://github.com/JustHawker/DL_NN_Courses_SamaraUniversity/blob/NN-DL-autumn-2026/lections/DL_Adv_7_Transformers_2_26.pdf)  
+
+[Видео лекции от 28.10.2023](https://youtu.be/Uy9vjSGDHko)   
+  
   
 ### **3. DL Advanced. Дополнительные главы**
 
